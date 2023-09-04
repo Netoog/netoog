@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bem-vindo! Sou Nego Gonzaga 👋
 
-<!--
-**Netoog/netoog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é Neto Gonzaga, e sou um analista de dados apaixonado por transformar dados em insights valiosos. Atualmente, estou trabalhando como analista de dados, onde utilizo o Power BI e Python para criar análises e visualizações impactantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Paixões
+
+- 💼 Atualmente, estou focado em projetos de análise de dados, onde trabalho com dados de várias fontes para tomar decisões informadas.
+- 🤖 Estou empolgado em aprender mais sobre Machine Learning e Inteligência Artificial (AI) para melhorar minhas habilidades em análise de dados.
+- 📊 Amo criar visualizações de dados que contam histórias e simplificam informações complexas.
+- 📚 Sempre estou buscando aprender coisas novas e compartilhar conhecimento com a comunidade.
+
+## O Que Você Encontrará Aqui
+
+Neste perfil, você encontrará projetos relacionados a análise de dados, visualizações, projetos de aprendizado de máquina e muito mais. Fique à vontade para explorar meus repositórios e fornecer feedback ou colaborar em projetos interessantes!
+
+## Entre em Contato
+
+- 💬 Você pode entrar em contato comigo por meio das issues em meus repositórios ou me enviar uma mensagem direta.
+- 📧 Também estou disponível via e-mail em aeciogonzaganeto@gmail.com.
+-
