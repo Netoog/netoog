@@ -19,4 +19,4 @@ Neste perfil, você encontrará projetos relacionados a análise de dados, visua
 
 - 💬 Você pode entrar em contato comigo por meio das issues em meus repositórios ou me enviar uma mensagem direta.
 - 📧 Também estou disponível via e-mail em aeciogonzaganeto@gmail.com.
--
+
